@@ -7,7 +7,7 @@ A fast and universal crosschain bridge+sdk that serves small transfers and focus
 - [Trader](https://github.com/pvolnov/okx-hackaton/tree/main/backend)
 - [Backend api](https://github.com/pvolnov/okx-hackaton/tree/main/backend)
 - [Oracle sdk](https://github.com/pvolnov/okx-hackaton/tree/main/backend/utils.py)
-- [Smart contract code](https://github.com/pvolnov/okx-hackaton/tree/main/bridge-contract/contracts/LiteBridge.sol)
+- [Smart contract](https://github.com/pvolnov/okx-hackaton/tree/main/bridge-contract)
 - [Chrome extension](https://github.com/pvolnov/okx-hackaton/tree/main/extension)
 
 
