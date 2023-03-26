@@ -28,6 +28,9 @@ For many game and NFT users, a single purchase rarely exceeds $25. Existing brid
 
 3. If the user wants to dispute the transaction, they can bring in oracles to verify the correctness of the hash and potentially return the funds and penalize the trader.
 
+![A mushroom-head robot](./bridge-contract/images/howwork.jpg 'Codey the Codecademy mascot')
+
+
 ## Why Lite bridge will work:
 
 - For transfers between 5-50$, having little liquidity is sufficient and anyone can be a trader.

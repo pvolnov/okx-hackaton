@@ -47,3 +47,6 @@ This function allows a user to dispute a transfer request if it has not been con
 
 ### `vote`
 This function allows users to vote on a disputed transfer request
+
+
+[![A mushroom-head robot](./images/howwork.jpg 'Codey the Codecademy mascot')]
