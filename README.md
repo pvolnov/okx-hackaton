@@ -7,7 +7,7 @@ A fast and universal crosschain bridge+sdk that serves small transfers and focus
 - [Trader](https://github.com/pvolnov/okx-hackaton/tree/main/backend)
 - [Backend api](https://github.com/pvolnov/okx-hackaton/tree/main/backend)
 - [Oracle sdk](https://github.com/pvolnov/okx-hackaton/tree/main/backend/utils.py)
-- [Smart contract code](https://github.com/pvolnov/okx-hackaton/tree/main/bridge-contract/contracts)
+- [Smart contract code](https://github.com/pvolnov/okx-hackaton/tree/main/bridge-contract/contracts/LiteBridge.sol)
 - [Chrome extension](https://github.com/pvolnov/okx-hackaton/tree/main/extension)
 
 
@@ -34,7 +34,7 @@ For many game and NFT users, a single purchase rarely exceeds $25. Existing brid
 - High commission (up to 2%) is a good motivation for traders. For small transactions, speed and UX are more important than commission.
 - With many traders available, they can quickly fulfill requests on any network.
 
-Contracts:
+### Contracts:
 
 Polygon bridge contract: `0x8667e2d2550fd86728d25022ca11dbed68005fc9`
 
